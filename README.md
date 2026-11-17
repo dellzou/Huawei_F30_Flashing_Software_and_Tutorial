@@ -6,7 +6,7 @@
 
 完整命令、判断依据和回退步骤在这篇文章：
 
-**https://xiaozou123.cn/huawei-f30-ont-enable-sn-mac-super-password/**
+[华为 F30 光猫使能教程：修改 SN、修改 MAC、获取超密](https://xiaozou123.cn/huawei-f30-ont-enable-sn-mac-super-password/)
 
 ## 文件清单
 
@@ -41,6 +41,17 @@ F30 是系列名，具体型号要单独配使能包：
 - V175：见 [Huawei_V175_Flashing_Software_and_Tutorial](https://github.com/dellzou/Huawei_V175_Flashing_Software_and_Tutorial)
 
 老固件（R19/R20 一代）可以只用 `ONT_V500R19C00.exe` 的 V3/V5 使能，不刷包。
+
+## 相关仓库
+
+同品牌其它机型，命令体系相近，排障时可以互相参照；每个仓库开头都对应一篇文章：
+
+- [华为 HN8145X6 工具包](https://github.com/dellzou/Huawei_HN8145X6_Flashing_Software_and_Tutorial)：华为 HN8145X6，补全 AllShell、改光模
+- [华为 HN8145XR 工具包](https://github.com/dellzou/Huawei_HN8145XR_Flashing_Software_and_Tutorial)：华为 HN8145XR，主猫改公版、从猫组网
+- [华为 K662D 工具包](https://github.com/dellzou/Huawei_K662D_Flashing_Software_and_Tutorial)：华为 K662D，从猫改光猫模式
+- [华为 V173-50 工具包](https://github.com/dellzou/Huawei_V173-50_Flashing_Software_and_Tutorial)：华为 V173-50，R24 装备包与 OBSCTool 日志
+- [华为 V173 工具包](https://github.com/dellzou/Huawei_V173_Flashing_Software_and_Tutorial)：华为 V173 主猫，补全 Shell、改公版、改 boardinfo
+- [华为 V175 工具包](https://github.com/dellzou/Huawei_V175_Flashing_Software_and_Tutorial)：华为 V175，R23 固件包开 Telnet
 
 ## 注意
 
